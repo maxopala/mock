@@ -2,7 +2,7 @@
     "cpf": 40321507886,
     "idCielo": "xxx",
     "proposalUuid": "12345678-90ab-cdef-1234-567890abcdef",
-    "decision": "REPROVAR",
+    "decision": "APROVAR",
     "policyCode": "P1",
     "executions": {
       "cpfBadHistory": {
