@@ -1,0 +1,36 @@
+{
+    "cpf": 43043338871,
+    "idCielo": "xxx",
+    "proposalUuid": "12345678-90ab-cdef-1234-567890abcdef",
+    "decision": "APROVAR",
+    "policyCode": "P1",
+    "executions": {
+      "cpfBadHistory": {
+        "decision": "APROVAR"
+      },
+      "cpfHistory": {
+        "decision": "APROVAR"
+      },
+      "phoneHistory": {
+        "decision": "APROVAR"
+      },
+      "emailHistory": {
+        "decision": "APROVAR"
+      },
+      "cpfStatus": {
+        "decision": "APROVAR"
+      },
+      "emailageNotFound": {
+        "decision": "APROVAR"
+      },
+      "emailageRiskBand6": {
+        "decision": "APROVAR"
+      },
+      "emailageRecentEmail": {
+        "decision": "APROVAR"
+      },
+      "emailageRecentFistVerification": {
+        "decision": "APROVAR"
+      }
+    }
+  }
